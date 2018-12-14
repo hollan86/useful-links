@@ -10,8 +10,5 @@
 ## SHADER LANGUAGE
 - http://www.shaderific.com/glsl/
 
-## README.md formatting :stuck_out_tongue:
-- https://help.github.com/articles/basic-writing-and-formatting-syntax/
-- https://www.webpagefx.com/tools/emoji-cheat-sheet/
 
 

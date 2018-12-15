@@ -10,5 +10,7 @@
 ## SHADER LANGUAGE
 - http://www.shaderific.com/glsl/
 
-
-
+## CGAL
+- https://stackoverflow.com/questions/34101447/normals-probably-not-consistent-after-cgal-3d-surface-mesh-generation
+- http://wiki.schmid.dk/wiki/index.php/CGAL
+- http://cgal-discuss.949826.n4.nabble.com/normal-vector-of-a-facet-td1580004.html
